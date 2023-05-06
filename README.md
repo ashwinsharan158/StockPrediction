@@ -12,14 +12,14 @@ The goal is to optimize and compare performance of above models for limited and 
 
 [//]: # (Image References)
 
-[image1]: ./blob/main/output_images/image1.PNG "Transformer Output"
-[image2]: ./output_images/image2.png "Transformer Error"
-[image3]: ./output_images/image3.png "Moving Average Table"
-[image4]: ./output_images/image4.png "Moving average graph"
-[image5]: ./output_images/image5.png "Moving average error"
-[image6]: ./output_images/image6.png "CNN model error"
-[image7]: ./output_images/image7.png "ARIMA-Model"
-[image8]: ./output_images/image8.png "ensamble-model"
+[image1]: https://github.com/ashwinsharan158/StockPrediction/blob/main/output_images/image1.PNG "Transformer Output"
+[image2]: https://github.com/ashwinsharan158/StockPrediction/blob/main/output_images/image2.PNG "Transformer Error"
+[image3]: https://github.com/ashwinsharan158/StockPrediction/blob/main/output_images/image3.PNG "Moving Average Table"
+[image4]: https://github.com/ashwinsharan158/StockPrediction/blob/main/output_images/image4.PNG "Moving average graph"
+[image5]: https://github.com/ashwinsharan158/StockPrediction/blob/main/output_images/image5.PNG "Moving average error"
+[image6]: https://github.com/ashwinsharan158/StockPrediction/blob/main/output_images/image6.PNG "CNN model error"
+[image7]: https://github.com/ashwinsharan158/StockPrediction/blob/main/output_images/image7.PNG "ARIMA-Model"
+[image8]: https://github.com/ashwinsharan158/StockPrediction/blob/main/output_images/image8.PNG "ensamble-model"
 
 ## Background:
 
