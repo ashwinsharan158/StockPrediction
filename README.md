@@ -12,7 +12,7 @@ The goal is to optimize and compare performance of above models for limited and 
 
 [//]: # (Image References)
 
-[image1]: ./output_images/image1.png "Transformer Output"
+[image1]: output_images/image1.png "Transformer Output"
 [image2]: ./output_images/image2.png "Transformer Error"
 [image3]: ./output_images/image3.png "Moving Average Table"
 [image4]: ./output_images/image4.png "Moving average graph"
@@ -34,7 +34,7 @@ In spite of all the papers listed as reference, what makes this project differen
 
 ### Transformer:
 Here we follow the steps specified in the methods section and obtained a linear prediction for a transformer. As shown below in Figures 5 and 6, even the most advanced model architectures are not able to extract non-linear stock predictions from historical stock prices and volumes. Also the distance between the MAPE and other performance graphs is too high. Where during the run of the model exponential error is too high to minimize.
- 
+
 ![alt_text][image1]
 ![alt_text][image2]
 
