@@ -12,7 +12,7 @@ The goal is to optimize and compare performance of above models for limited and 
 
 [//]: # (Image References)
 
-[image1]: https://github.com/ashwinsharan158/StockPrediction/blob/main/output_images/image1.PNG "Transformer Output"
+[image1]: ./blob/main/output_images/image1.PNG "Transformer Output"
 [image2]: ./output_images/image2.png "Transformer Error"
 [image3]: ./output_images/image3.png "Moving Average Table"
 [image4]: ./output_images/image4.png "Moving average graph"
