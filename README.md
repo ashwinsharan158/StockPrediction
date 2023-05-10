@@ -8,6 +8,7 @@ To use Machine learning models to make stock market predictions of an unstable s
 * Moving Averages (MA)
 * CNN
 * Transformers 
+
 The goal is to optimize and compare performance of above models for limited and volatile data. Also to finally end up with a model that is a relatively fair predictor of bitcoin stock price.
 
 [//]: # (Image References)
